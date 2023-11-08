@@ -313,9 +313,9 @@ TextureImporter:
       name: Platforms_6
       rect:
         serializedVersion: 2
-        x: 1
+        x: 0
         y: 51
-        width: 15
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -357,7 +357,7 @@ TextureImporter:
         serializedVersion: 2
         x: 34
         y: 51
-        width: 15
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -376,9 +376,9 @@ TextureImporter:
       name: Platforms_9
       rect:
         serializedVersion: 2
-        x: 1
+        x: 0
         y: 34
-        width: 15
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -420,7 +420,7 @@ TextureImporter:
         serializedVersion: 2
         x: 34
         y: 34
-        width: 15
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
